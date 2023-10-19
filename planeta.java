@@ -95,9 +95,9 @@ void imprimir (){
 }
   public static void main(String[] args) {
     
-        planeta tierra = new planeta("Tierra", 1, 5.972e24, 
-        1.08321e12, 12742, 150000000, true);
-        tierra.imprimir();
+        planeta jupiter = new planeta("Jupiter", 1, 1.899e27, 
+        1.4313e15, 139820, 750000000, true);
+        jupiter.imprimir();
 
 
     }
